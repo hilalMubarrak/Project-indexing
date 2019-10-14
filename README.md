@@ -8,5 +8,6 @@
       * `pip install flask`
       * `pip install opencv`
    - How to run program
-      - 
-      * `cd image-search-engine-master`
+       * go to engine directory
+       * `cd image-search-engine-master`
+       * `pip install -r requirement.txt`
