@@ -4,8 +4,9 @@
 
 1. Image-Search-Engine
    - Requirement:
-      a. `sudo apt-get python3`
-      b. `pip install flask`
-      c. `pip install opencv`
+      * `sudo apt-get python3`
+      * `pip install flask`
+      * `pip install opencv`
    - How to run program
-  
+      - 
+      * `cd image-search-engine-master`
